@@ -10,7 +10,7 @@ Fitted parameters' values:
 Fitted parameters covariance:
 [[ 1.527e-04 -3.164e-05 -3.028e-03]
  [-3.164e-05  6.617e-06  6.102e-04]
- [-3.028e-03  6.102e-04  7.011e-02]]
+ [-3.028e-03  6.102e-04  7.010e-02]]
 Chi squared: 18.46
 Degrees of freedom: 18
 Chi squared reduced: 1.026
