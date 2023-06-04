@@ -2,7 +2,7 @@ Results:
 ========
 
 Initial parameters' values:
-	1.5 0.0
+	1.0 1.0
 Fitted parameters' values:
 	a[0] = 3.7377e-3 ± 9.260e-4 (24.77% error)
 	a[1] = 1.42092e-3 ± 2.740e-5 (1.928% error)
